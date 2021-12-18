@@ -15,4 +15,6 @@ module org.openjfx.javafxarchetypesimple {
     opens org.openjfx.javafxarchetypesimple.system to javafx.fxml;
     exports org.openjfx.javafxarchetypesimple.development_2_and_7;
     opens org.openjfx.javafxarchetypesimple.development_2_and_7 to javafx.fxml;
+    exports org.openjfx.javafxarchetypesimple.development_3;
+    opens org.openjfx.javafxarchetypesimple.development_3 to javafx.fxml;
 }
