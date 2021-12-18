@@ -1,9 +1,7 @@
 package org.openjfx.javafxarchetypesimple.development_2_and_7;
 
-import org.openjfx.javafxarchetypesimple.answer.AnswerCount;
 import org.openjfx.javafxarchetypesimple.answer.AnswerEating;
 import org.openjfx.javafxarchetypesimple.answer.AnswerProduct;
-import org.openjfx.javafxarchetypesimple.question.CountQuestion;
 import org.openjfx.javafxarchetypesimple.question.EatingQuestion;
 import org.openjfx.javafxarchetypesimple.question.ProductQuestion;
 import org.openjfx.javafxarchetypesimple.question.Questionnaire;
